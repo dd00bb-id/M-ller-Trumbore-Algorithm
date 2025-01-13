@@ -14,8 +14,7 @@
     - 만약 교차점이 삼각형의 내부에 있으면 교차가 발생한 것으로 판단하고, 그렇지 않으면 교차하지 않는 것으로 판단합니다.
   
 
-![시뮬레이션 결과](https://github.com/dd00bb-id/M-ller-Trumbore-/issues/1#issue-2783212843)
-
+![image](https://github.com/user-attachments/assets/ef6b4779-98dd-4ebe-8480-87eeec6fe91d)
 
 
 ## 직선과 삼각형 교차 여부 계산의 중요성
